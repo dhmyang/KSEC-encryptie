@@ -15,3 +15,9 @@ base64_encode($encrypted);
  --------
 opd2:
 254
+
+opd3 :
+zodat dat veilig wordt ge-encrypt
+
+opd 4:
+bob moet zijn bericht encrypten en alice moet het decrpyten
